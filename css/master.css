@@ -54,16 +54,17 @@ header{
 >>>>>>> upstream/master
 
 
-.sectionIlse{
-
+#contenedorGeneral {
+margin-top: 100px;
+margin-bottom: 100px;
 }
 .cajasIlse {
   width: 500px;
   height: 580px;
   float:left;
+  clear:both;
   margin-left: 70px;
   margin-right: 50px;
-  border: 1px solid black;
 }
 
 .botonIlse {
