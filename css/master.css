@@ -1,1 +1,22 @@
-
+header{
+    display: block;
+    background-color: #faae27 ;
+    padding: 50px;
+}
+.sumate{
+    color: #fff;
+    background-color: #fa8c27 ;
+    padding: 10px;
+    font-family: 'Crimson Text', serif;
+}
+.menu{
+    text-decoration: none;
+    float: right;
+}
+.menu ul li{
+    display: inline-block;
+    color: #fff;
+    text-transform: uppercase;
+    margin-left: 15px;
+    font-family: 'Crimson Text', serif;
+}
