@@ -1,3 +1,13 @@
+footer{
+	
+	font-family: arial,verdana;
+	font-size: 20px;
+	background-color: black;
+	color:white;
+	padding:30px; 
+	margin-top: 400px;
+	margin-bottom:10px;
+}
 
 .encabezados{
     font-family: 'Crimson Text', serif;
@@ -22,6 +32,7 @@ header{
     display: block;
     background-color: #faae27 ;
     padding: 50px;
+    margin: -9px;
 }
 .sumate{
     color: #fff;
