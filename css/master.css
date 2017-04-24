@@ -9,3 +9,83 @@ footer{
 	margin-bottom:10px;
 }
 
+.encabezados{
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+    background: #faae27;
+    margin: -8px;
+    padding: 300px;
+
+}
+.h1principal{
+    color: white;
+    font-size: 49px;
+    margin: 0;
+}
+.h2principal{
+    color: white;
+    font-size: 20px;
+    margin: 0;
+}
+
+header{
+    display: block;
+    background-color: #faae27 ;
+    padding: 50px;
+}
+.sumate{
+    color: #fff;
+    background-color: #fa8c27 ;
+    padding: 10px;
+    font-family: 'Crimson Text', serif;
+}
+.menu{
+    text-decoration: none;
+    float: right;
+}
+.menu ul li{
+    display: inline-block;
+    color: #fff;
+    text-transform: uppercase;
+    margin-left: 15px;
+    font-family: 'Crimson Text', serif;
+}
+>>>>>>> upstream/master
+
+
+.sectionIlse{
+
+}
+.cajasIlse {
+  width: 500px;
+  height: 580px;
+  float:left;
+  margin-left: 70px;
+  margin-right: 50px;
+  border: 1px solid black;
+}
+
+.botonIlse {
+  background-color: #EDD702;
+  border:none;
+  width: 70px;
+  height: 30px;
+  margin-left: 215px;
+}
+
+.imagenIlse {
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.textoIlse {
+  text-align: justify;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.ejemplosIlse {
+  text-align: justify;
+  margin-left: 5px;
+  margin-right: 5px;
+}
