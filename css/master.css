@@ -1,5 +1,4 @@
 footer{
-	
 	font-family: arial,verdana;
 	font-size: 20px;
 	background-color: black;
@@ -8,14 +7,12 @@ footer{
 	margin-top: 400px;
 	margin-bottom:10px;
 }
-
 .encabezados{
     font-family: 'Crimson Text', serif;
     text-align: center;
     background: #faae27;
     margin: -8px;
     padding: 300px;
-
 }
 .h1principal{
     color: white;
@@ -27,7 +24,6 @@ footer{
     font-size: 20px;
     margin: 0;
 }
-
 header{
     display: block;
     background-color: #faae27 ;
@@ -51,16 +47,14 @@ header{
     margin-left: 15px;
     font-family: 'Crimson Text', serif;
 }
->>>>>>> upstream/master
-
-
 .sectionIlse{
-
+  margin-bottom: 50px;
 }
 .cajasIlse {
+  display: inline-block;
   width: 500px;
   height: 580px;
-  float:left;
+  /*float:left;*/
   margin-left: 70px;
   margin-right: 50px;
   border: 1px solid black;
