@@ -1,3 +1,6 @@
+body{
+  background-color: #e0d9d9;
+}
 footer{
 	font-family: arial,verdana;
 	font-size: 20px;
@@ -7,14 +10,12 @@ footer{
 	margin-top: 400px;
 	margin-bottom:10px;
 }
-
 .encabezados{
     font-family: 'Crimson Text', serif;
     text-align: center;
     background: #faae27;
     margin: -8px;
     padding: 300px;
-
 }
 .h1principal{
     color: white;
@@ -26,7 +27,6 @@ footer{
     font-size: 20px;
     margin: 0;
 }
-
 header{
     display: block;
     background-color: #faae27 ;
@@ -50,19 +50,18 @@ header{
     margin-left: 15px;
     font-family: 'Crimson Text', serif;
 }
->>>>>>> upstream/master
 
-
-.sectionIlse{
-
+#contenedorGeneral {
+margin-top: 100px;
+margin-bottom: 100px;
 }
 .cajasIlse {
+  display: inline-block;
+  background-color: white;
   width: 500px;
   height: 580px;
-  float:left;
   margin-left: 70px;
   margin-right: 50px;
-  border: 1px solid black;
 }
 
 .botonIlse {
@@ -84,6 +83,9 @@ header{
   margin-right: 15px;
 }
 
+.cajaNancy{
+  margin-top: 45px;
+}
 .ejemplosIlse {
   text-align: justify;
   margin-left: 5px;
