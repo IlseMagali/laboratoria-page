@@ -6,7 +6,7 @@ footer{
 	font-size: 20px;
 	background-color: black;
 	color:white;
-	padding:30px; 
+	padding:30px;
 	margin-top: 400px;
 	margin-bottom:10px;
 }
@@ -51,6 +51,8 @@ header{
     font-family: 'Crimson Text', serif;
 }
 
+<<<<<<< HEAD
+=======
 .cuadritosAndy{
   width: 500px;
   height: 580px;
@@ -150,4 +152,12 @@ margin-bottom: 100px;
   text-align: justify;
   margin-left: 5px;
   margin-right: 5px;
+
+}
+
+.cajaSue{
+  margin-top: 50px;
+  margin-bottom: 20px;
+
+
 }
