@@ -47,6 +47,7 @@ header{
 }
 
 .cuadritosAndy {
+
   width: 500px;
   height: 580px;
   float: left;
@@ -154,6 +155,12 @@ margin-bottom: 100px;
   text-align: justify;
   margin-left: 5px;
   margin-right: 5px;
+
+}
+
+.cajaSue{
+  margin-top: 50px;
+  margin-bottom: 20px;
 }
 
 footer{
